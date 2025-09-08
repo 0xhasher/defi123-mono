@@ -1,0 +1,6 @@
+[submodule "apps/browser-extension"]
+	path = apps/browser-extension
+	url = git@github.com:0xhasher/defi123-extension.git
+[submodule "apps/website"]
+	path = apps/website
+	url = git@github.com:0xhasher/defi123-websites.git
